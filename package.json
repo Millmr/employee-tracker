@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "employee-tracker",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Millmr/employee-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Millmr/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/Millmr/employee-tracker#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "inquirer": "^8.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.2.5"
+  }
+}
